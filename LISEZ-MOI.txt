@@ -1,0 +1,20 @@
+LA TASSE DES COUSINES — VERSION PREMIUM
+
+OUVRIR LE SITE
+1. Décompressez le dossier.
+2. Ouvrez index.html dans un navigateur récent.
+3. Pour une présentation plus proche d’un vrai hébergement, lancez un serveur local depuis ce dossier (ex. : python -m http.server 8000), puis ouvrez http://localhost:8000.
+
+CONTENU
+- index.html : accueil premium, configurateur de goûter, inspirations, carnet et plateau.
+- salon.html, vitrine.html, boissons.html, recettes.html, avis.html, contact.html : pages du projet d’origine harmonisées.
+- mentions-legales.html et confidentialite.html : pages d’information.
+- style.css et script.js : styles et interactions partagés.
+- images/cornes-gazelle.jpg : photo fournie avec le projet.
+
+À SAVOIR
+- Le plateau et le configurateur fonctionnent dans le navigateur, sans paiement ni envoi de commande.
+- Le formulaire de contact reste en mode démonstration : il indique clairement qu’aucune demande n’est transmise. Pour un envoi réel, il faudra connecter un service de formulaire ou un backend.
+- Plusieurs photos décoratives chargées depuis Unsplash nécessitent une connexion Internet.
+- Les coordonnées et l’établissement sont fictifs : conservez cette précision dans votre présentation pédagogique.
+- Pensez à compléter les champs entre crochets dans les mentions légales avant toute publication.
